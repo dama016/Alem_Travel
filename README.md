@@ -1,7 +1,5 @@
 # 🌍 Alem Travel - Tourism Agency Website
 
-![Alem Travel Banner](blob:https://web.telegram.org/3d369b00-85a6-4352-b52c-cad841456b1a) 
-
 A modern, interactive web application for planning trips and exploring travel destinations. Built as a collaborative team project.
 
 ## ✨ Ключевые возможности (Features)
