@@ -1,11 +1,27 @@
+# 🌍 Alem Travel - Tourism Agency Website
 
-  # Сайт для туристического стартапа
+![Alem Travel Banner](https://via.placeholder.com/1000x300?text=Alem+Travel+-+Explore+The+World) 
 
-  This is a code bundle for Сайт для туристического стартапа. The original project is available at https://www.figma.com/design/6UNCiC78bdrY2aRuyoVfC1/%D0%A1%D0%B0%D0%B9%D1%82-%D0%B4%D0%BB%D1%8F-%D1%82%D1%83%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF%D0%B0.
+A modern, interactive web application for planning trips and exploring travel destinations. Built as a collaborative team project.
 
-  ## Running the code
+## ✨ Ключевые возможности (Features)
 
-  Run `npm i` to install the dependencies.
+* 🧮 **Умный планировщик бюджета (Trip Planner):** Интерактивный калькулятор, который высчитывает реальную стоимость поездки (на основе дней и количества человек) и распределяет бюджет по категориям (Отель, Еда, Досуг, Транспорт).
+* 🗣️ **Встроенный переводчик:** Интеграция с MyMemory API для перевода текстов в реальном времени.
+* 🌐 **Мультиязычность:** Полная поддержка интерфейса на казахском (🇰🇿), русском (🇷🇺) и английском (🇬🇧) языках.
+* 🌓 **Темная тема:** Стильный переключатель Day/Night mode для комфортного использования.
+* 📱 **Современный UI:** Адаптивная шапка с грамотной геометрией на Flexbox / Auto Layout.
 
-  Run `npm run dev` to start the development server.
-  
+## 🛠️ Технологии (Tech Stack)
+
+* **Frontend:** JavaScript / React (или HTML/CSS/JS)
+* **API Интеграции:** MyMemory Translation API
+* **Контроль версий:** Git & GitHub
+
+## 🚀 Как запустить проект локально (Installation)
+
+Чтобы запустить этот проект на своем компьютере, выполните следующие шаги:
+
+1. Склонируйте репозиторий:
+   ```bash
+   git clone [https://github.com/](https://github.com/)[ВАШ_ЛОГИН_GITHUB]/[НАЗВАНИЕ_РЕПОЗИТОРИЯ].git
