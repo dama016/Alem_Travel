@@ -157,8 +157,8 @@ export function ContactModal({ isOpen, onClose }: ContactModalProps) {
               <div className="mt-6 pt-6 border-t border-gray-200">
                 <p className="text-sm text-gray-500 text-center">
                   {t('contact.reachUs')}{' '}
-                  <a href="mailto:support@goingplaces.com" className="text-blue-600 hover:underline">
-                    support@goingplaces.com
+                  <a href="mailto:alemtravel0@gmail.com" className="text-blue-600 hover:underline">
+                    alemtravel0@gmail.com
                   </a>
                 </p>
               </div>
